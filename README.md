@@ -1,4 +1,4 @@
-jquery.scrollParams
+﻿jquery.scrollParams
 ====================
 
 $().scrollParams tests for scrollbar visibility and widths.
