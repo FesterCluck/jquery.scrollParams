@@ -1,0 +1,35 @@
+{
+    "name": "scrollParams",
+    "title": "scrollParams",
+    "description": "jQuery plugin to determine scrollbars' widths and presence",
+    "keywords": [
+        "scroll",
+        "autosize",
+		"auto"
+    ],
+    "version": "1.0.1",
+    "author": {
+        "name": "Stephen Kraushaar",
+        "url": "https://github.com/FesterCluck/jquery.scrollParams/AUTHORS.txt"
+    },
+    "maintainers": [
+        {
+            "name": "Stephen Kraushaar",
+            "email": "skraushaar@gmail.com",
+            "url": "http://nova-initia.com"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "Creative Commons Attribution-ShareAlike 3.0 Unported",
+            "url": "http://creativecommons.org/licenses/by-sa/3.0/"
+        }
+    ],
+    "bugs": "https://github.com/FesterCluck/jquery.scrollParams/issues",
+    "homepage": "https://github.com/FesterCluck/jquery.scrollParams/",
+    "docs": "https://github.com/FesterCluck/jquery.scrollParams/",
+    "download": "https://github.com/FesterCluck/jquery.scrollParams/",
+    "dependencies": {
+        "jquery": ">=1.7"
+    }
+}
